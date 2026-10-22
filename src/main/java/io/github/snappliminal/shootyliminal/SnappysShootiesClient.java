@@ -25,7 +25,7 @@ public class SnappysShootiesClient {
     @SubscribeEvent
     static void onClientSetup(FMLClientSetupEvent event) {
         // Some client setup code
-        SnappysShooties.LOGGER.info("HELLO FROM CLIENT SETUP");
-        SnappysShooties.LOGGER.info("MINECRAFT NAME >> {}", Minecraft.getInstance().getUser().getName());
+        SnappysShooties.LOGGER.info("Bending limbs!");
+        SnappysShooties.LOGGER.info("This is you, right? {}", Minecraft.getInstance().getUser().getName());
     }
 }

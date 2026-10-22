@@ -46,20 +46,8 @@ authors="SnappLiminal"
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-Snappy Shooties is a Minecraft Bow Overhaul mod that adds different kinds of bows to Minecraft in a vanilla friendly way!
-Why? 
-The archery scene of Minecraft is kind of neglected. Archery comes in all sorts of styles, and as someone who enjoys going out shooting her bow, I found the lack of bows different types frustrating. So I decided to make a mod myself! 
-
-This mod includes: Recurves, Longbows, Flatbows, Warbows, Yumis, Composites, and more! 
-I didn't wanna do crossbows since the practice itself is an entirely different skill set, and I don't know much about crossbows. However, if this mod gets more support, I would be willing to add crossbows as well!
-
-THIS MOD DOES NOT SUPPORT THE USAGE OF AI. You are not allowed to use AI to edit, steal, or analyze this mod in anyway shape or form! I have attached a NO-AI license! You are not allowed to use this in any AI projects, or modpacks made with AI. Should I find out you made an add-on or content with AI on this project, I will ask for it to be taken down! 
-SnappLiminal projects will not allow the use of LLMs in any shape or form. Consider yourself warned! For more information, please check the license!
-Otherwise, it's completely open source for artists who want to make addons and learn how to code as well! 
-
-If you like the mod, please consider sharing with your friends! 
-
-You should not pay for this mod. If you did, you were scammed!
+An Archery Overhaul mod!
+If you paid for this, you were scammed.
 '''
 
 # The [[mixins]] block allows you to declare your mixin config to FML so that it gets loaded.

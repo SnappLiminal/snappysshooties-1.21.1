@@ -1,0 +1,13 @@
+{
+  "itemGroup.snappysshooties": "Example Mod Tab",
+  "block.snappysshooties.example_block": "Example Block",
+  "item.snappysshooties.example_item": "Example Item",
+
+  "snappysshooties.configuration.title": "Snappy's Shooties Configs",
+  "snappysshooties.configuration.section.snappysshooties.common.toml": "Snappy's Shooties Configs",
+  "snappysshooties.configuration.section.snappysshooties.common.toml.title": "Snappy's Shooties Configs",
+  "snappysshooties.configuration.items": "Item List",
+  "snappysshooties.configuration.logDirtBlock": "Log Dirt Block",
+  "snappysshooties.configuration.magicNumberIntroduction": "Magic Number Text",
+  "snappysshooties.configuration.magicNumber": "Magic Number"
+}
